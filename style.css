@@ -1,0 +1,105 @@
+#title {
+    margin-left: 450px;
+    margin-top: 50px;
+    width: 400px;
+    height: 20px;
+}
+#player {
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+}
+#pl {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 50px;
+}
+#text {
+    display: block;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: gray;
+    margin: 0px;
+}
+#game {
+    background-color: rgb(165, 42, 42);
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+    border-style: double;
+    margin-top: 50px;
+    display: inline-block;
+}
+#buttons {
+    width: 500px;
+    height: 60px;
+    margin-top: 70px;
+}
+button {
+    font-size: medium;
+    width: 150px;
+    margin-left: 10px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    font-weight: 600;
+    cursor: pointer;
+}
+#computer {
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    margin-left: 100px;
+}
+#com {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 50px;
+}
+#pl-score {
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+#score1 {
+    font-weight: 600;
+    font-size: medium;
+}
+#teller {
+    display: inline-block;
+    width: 350px;
+    height: 30px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#who-won {
+    font-weight: 600;
+    font-size: 30px;
+}
+#cm-score {
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+#score2 {
+    font-weight: 600;
+    font-size: medium;
+}
+#res {
+    margin-top: 10px;
+    margin-left: 165px;
+}
